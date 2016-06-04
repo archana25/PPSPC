@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<road>
+
+  <quads has=" ">
+
+	<quad1>
+
+        	<quadpointpair> A (10,230) </quadpointpair>
+    	    <quadpointpair> B (10,210) </quadpointpair>
+		<quadpointpair> C (70,210) </quadpointpair>
+	<quadpointpair> W (90,210) </quadpointpair>
+	<quadpointpair> X (90,230) </quadpointpair>
+
+	<roadBoundaries> (1,1,0,1,1) </roadBoundaries>
+	
+    </quad1>
+
+
+    <quad2>
+
+	<quadpointpair> C (70,210) </quadpointpair>
+	<quadpointpair> A2 (70,200) </quadpointpair>
+	<quadpointpair> A3 (70,180) </quadpointpair>
+        <quadpointpair> D (70,150) </quadpointpair>
+	<quadpointpair> V (90,150) </quadpointpair>
+	<quadpointpair> B4 (90,160) </quadpointpair>
+	<quadpointpair> B1 (90,190) </quadpointpair>
+	<quadpointpair> W (90,210) </quadpointpair>
+	
+	<roadBoundaries> (1,0,1,0,1,0,1,0)  </roadBoundaries>
+
+    </quad2>
+    
+    
+	<quad3>
+		
+		<quadpointpair> A1 (10,200) </quadpointpair>
+		<quadpointpair> A6 (10,180) </quadpointpair>
+		<quadpointpair> A5 (30,180) </quadpointpair>
+		<quadpointpair> A4 (50,180) </quadpointpair>
+		<quadpointpair> A3 (70,180) </quadpointpair>
+		<quadpointpair> A2 (70,200) </quadpointpair>
+
+		<roadBoundaries> (1,1,0,1,0,1) </roadBoundaries>
+
+	</quad3>
+
+	<quad4>
+		<quadpointpair> A5 (30,180) </quadpointpair>
+		<quadpointpair> A8 (30,150) </quadpointpair>
+		<quadpointpair> A7 (50,150) </quadpointpair>
+		<quadpointpair> A4 (50,180) </quadpointpair>
+
+		<roadBoundaries> (1,0,1,0) </roadBoundaries>
+
+	</quad4>
+
+
+	<quad5>
+
+		<quadpointpair> E (10,150) </quadpointpair>
+		<quadpointpair> F (10,130) </quadpointpair>
+		<quadpointpair> I (30,130) </quadpointpair>
+		<quadpointpair> J (70,130) </quadpointpair>
+		<quadpointpair> D (70,150) </quadpointpair>
+		<quadpointpair> A7 (50,150) </quadpointpair>
+		<quadpointpair> A8 (30,150) </quadpointpair>
+
+		<roadBoundaries> (1,0,1,0,1,0,1) </roadBoundaries>
+
+	</quad5>
+	<quad6>
+		
+		<quadpointpair> F (10,130) </quadpointpair>
+		<quadpointpair> I (30,130) </quadpointpair>
+		<quadpointpair> E1 (30,90) </quadpointpair>
+		<quadpointpair> E6 (30,70) </quadpointpair>
+		<quadpointpair> H (30,50) </quadpointpair>
+		<quadpointpair> G (10,50) </quadpointpair>
+
+		<roadBoundaries> (0,1,0,1,1,1) </roadBoundaries>
+
+	</quad6>
+	<quad7>
+		
+		<quadpointpair> E1 (30,90) </quadpointpair>
+		<quadpointpair> E2 (60,90) </quadpointpair>
+		<quadpointpair> E3 (60,70) </quadpointpair>
+		<quadpointpair> E6 (40,70) </quadpointpair>
+		<quadpointpair> E7 (30,70) </quadpointpair>
+
+		<roadBoundaries> (1,1,0,1,0) </roadBoundaries>
+
+	</quad7>
+	<quad8>	
+			
+		<quadpointpair> E6 (40,70) </quadpointpair>
+		<quadpointpair> E3 (60,70) </quadpointpair>
+		<quadpointpair> E4 (60,20) </quadpointpair>
+		<quadpointpair> E5 (40,20) </quadpointpair>
+
+		<roadBoundaries> (0,1,1,1) </roadBoundaries>
+
+	</quad8>
+	<quad9>	
+			
+		<quadpointpair> B1 (90,190) </quadpointpair>
+		<quadpointpair> B2 (110,190) </quadpointpair>
+		<quadpointpair> B3 (100,160) </quadpointpair>
+		<quadpointpair> B4 (90,160) </quadpointpair>
+
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+	</quad9>
+	<quad10>
+
+	        <quadpointpair> D (70,150) </quadpointpair>
+		<quadpointpair> V (90,150) </quadpointpair>
+		<quadpointpair> P (90,130) </quadpointpair>
+		<quadpointpair> J (70,130) </quadpointpair>
+
+		<roadBoundaries> (0,0,0,0) </roadBoundaries>
+
+      </quad10>
+	
+	<quad11>
+
+		<quadpointpair> V (90,150) </quadpointpair>
+		<quadpointpair> P (90,130) </quadpointpair>
+		<quadpointpair> Q (170,130) </quadpointpair>
+		<quadpointpair> R (170,150) </quadpointpair>
+		<quadpointpair> U (150,150) </quadpointpair>
+
+		<roadBoundaries> (0,1,1,0,1) </roadBoundaries>
+	
+      </quad11>
+
+	<quad12> 
+
+		<quadpointpair> R (170,150) </quadpointpair>
+		<quadpointpair> U (150,150) </quadpointpair>
+		<quadpointpair> D4 (150,160) </quadpointpair>
+		<quadpointpair> D1 (150,180) </quadpointpair>
+		<quadpointpair> C4 (150,190) </quadpointpair>
+		<quadpointpair> C1 (150,210) </quadpointpair>
+		<quadpointpair> T (150,230) </quadpointpair>
+		<quadpointpair> S (170,230) </quadpointpair>
+
+		<roadBoundaries> (0,1,0,1,0,1,1,1) </roadBoundaries>
+
+	</quad12>
+	<quad13>
+
+	        <quadpointpair> D1 (150,180) </quadpointpair>
+		<quadpointpair> D2 (120,180) </quadpointpair>
+		<quadpointpair> D3 (120,160) </quadpointpair>
+		<quadpointpair> D4 (150,160) </quadpointpair>
+
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+      </quad13>
+	<quad14>
+
+	        <quadpointpair> C1 (150,210) </quadpointpair>
+		<quadpointpair> C2 (120,210) </quadpointpair>
+		<quadpointpair> C3 (120,190) </quadpointpair>
+		<quadpointpair> C4 (150,190) </quadpointpair>
+
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+      </quad14>
+	<quad15>
+	
+		<quadpointpair> J (70,130) </quadpointpair>
+		<quadpointpair> P (90,130) </quadpointpair>
+		<quadpointpair> O (90,70) </quadpointpair>
+		<quadpointpair> K (70,70) </quadpointpair>
+	
+		<roadBoundaries> (0,1,0,1) </roadBoundaries>
+
+       </quad15>
+	<quad16>
+
+		<quadpointpair> K (70,70) </quadpointpair>
+		<quadpointpair> O (90,70) </quadpointpair>
+		<quadpointpair> N (170,70) </quadpointpair>
+		<quadpointpair> M (170,50) </quadpointpair>
+		<quadpointpair> H4 (150,50) </quadpointpair>
+		<quadpointpair> H1 (130,50) </quadpointpair>
+		<quadpointpair> G2 (125,50) </quadpointpair>
+		<quadpointpair> G1 (105,50) </quadpointpair>
+		<quadpointpair> F3 (100,50) </quadpointpair>
+		<quadpointpair> F4 (80,50) </quadpointpair>
+		<quadpointpair> L (70,50) </quadpointpair>
+	
+		<roadBoundaries> (0,1,1,1,0,1,0,1,0,1,1) </roadBoundaries>
+
+       </quad16>
+	<quad17>
+	
+		<quadpointpair> F4 (80,40) </quadpointpair>
+		<quadpointpair> F1 (80,20) </quadpointpair>
+		<quadpointpair> F2 (100,20) </quadpointpair>
+		<quadpointpair> F3 (100,50) </quadpointpair>
+	
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+       </quad17>
+	<quad18>
+	
+		<quadpointpair> G1 (105,50) </quadpointpair>
+		<quadpointpair> G3 (105,20) </quadpointpair>
+		<quadpointpair> G4 (125,20) </quadpointpair>
+		<quadpointpair> G2 (125,50) </quadpointpair>
+	
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+       </quad18>
+	<quad19>
+	
+		<quadpointpair> H1 (130,50) </quadpointpair>
+		<quadpointpair> H2 (130,20) </quadpointpair>
+		<quadpointpair> H3 (150,20) </quadpointpair>
+		<quadpointpair> H4 (150,50) </quadpointpair>
+	
+		<roadBoundaries> (1,1,1,0) </roadBoundaries>
+
+       </quad19>
+	<quad20>
+	
+		<quadpointpair> I1 (120,130) </quadpointpair>
+		<quadpointpair> I2 (120,110) </quadpointpair>
+		<quadpointpair> I7 (140,110) </quadpointpair>
+		<quadpointpair> I8 (140,130) </quadpointpair>
+	
+		<roadBoundaries> (1,0,1,0) </roadBoundaries>
+
+       </quad20>
+	<quad21>
+	
+		<quadpointpair> I2 (120,110) </quadpointpair>
+		<quadpointpair> I7 (140,110) </quadpointpair>
+		<quadpointpair> I6 (170,110) </quadpointpair>
+		<quadpointpair> I5 (170,90) </quadpointpair>
+		<quadpointpair> I4 (120,90) </quadpointpair>
+	
+		<roadBoundaries> (0,1,1,1,1) </roadBoundaries>
+
+       </quad21>
+
+    </quads>
+
+
+<cars>
+
+  <car1>
+          <quadpointpair> C11' (20,223) </quadpointpair>
+          <quadpointpair> C12' (20,220) </quadpointpair>
+          <quadpointpair> C13' (25,220) </quadpointpair>
+          <quadpointpair> C14' (25,223) </quadpointpair>
+
+	  <roadBoundaries> (1,1,1,1) </roadBoundaries> 
+  </car1>
+
+
+  <car2>
+          <quadpointpair> C21' (15,60) </quadpointpair>
+          <quadpointpair> C22' (15,55) </quadpointpair>
+          <quadpointpair> C23' (18,55) </quadpointpair>
+          <quadpointpair> C24' (18,60) </quadpointpair>
+
+	  <roadBoundaries> (1,1,1,1) </roadBoundaries> 
+  </car2>
+
+
+  <car3>
+          <quadpointpair> C31' (78,212) </quadpointpair>
+          <quadpointpair> C32' (78,208) </quadpointpair>
+          <quadpointpair> C33' (81,208) </quadpointpair>
+          <quadpointpair> C34' (81,212) </quadpointpair>
+
+	  <roadBoundaries> (1,1,1,1) </roadBoundaries> 
+  </car3>
+
+  <car4>
+          <quadpointpair> C41' (90,63) </quadpointpair>
+          <quadpointpair> C42' (90,60) </quadpointpair>
+          <quadpointpair> C43' (95,60) </quadpointpair>
+          <quadpointpair> C44' (95,63) </quadpointpair>
+
+	  <roadBoundaries> (1,1,1,1) </roadBoundaries> 
+  </car4>
+
+	</cars>
+
+<trucks>
+
+  <truck1>
+
+    <quadpointpair> T11' (75,148) </quadpointpair>
+    <quadpointpair> T12' (75,142) </quadpointpair>
+    <quadpointpair> T13' (81,142) </quadpointpair>
+    <quadpointpair> T14' (81,148) </quadpointpair>
+
+    <roadBoundaries> (1,1,1,1) </roadBoundaries>
+
+  </truck1>
+
+
+
+  <truck2>
+
+    <quadpointpair> T21' (157,138) </quadpointpair>
+    <quadpointpair> T22' (157,132) </quadpointpair>
+    <quadpointpair> T23' (168,132) </quadpointpair>
+    <quadpointpair> T24' (168,138) </quadpointpair>
+
+    <roadBoundaries> (1,1,1,1) </roadBoundaries>
+  </truck2>
+
+</trucks>
+
+
+
+
+<bikes>
+
+  <bike1>
+
+    <quadpointpair> B11' (149,137) </quadpointpair>
+    <quadpointpair> B12' (149,135) </quadpointpair>
+    <quadpointpair> B13' (153,135) </quadpointpair>
+    <quadpointpair> B14' (153,137) </quadpointpair>
+
+  </bike1>
+
+  <bike2>
+
+    <quadpointpair> B21' (83,160) </quadpointpair>
+    <quadpointpair> B22' (83,156) </quadpointpair>
+    <quadpointpair> B23' (85,156) </quadpointpair>
+    <quadpointpair> B24' (85,160) </quadpointpair>
+
+  </bike2>
+
+  <bike3>
+
+    <quadpointpair> B31' (56,148) </quadpointpair>
+    <quadpointpair> B32' (56,146) </quadpointpair>
+    <quadpointpair> B33' (60,146) </quadpointpair>
+    <quadpointpair> B34' (60,148) </quadpointpair>
+
+  </bike3>
+
+  <bike4>
+
+    <quadpointpair> B41' (15,128) </quadpointpair>
+    <quadpointpair> B42' (15,124) </quadpointpair>
+    <quadpointpair> B43' (17,124) </quadpointpair>
+    <quadpointpair> B44' (17,128) </quadpointpair>
+
+  </bike4>
+
+
+  <bike5>
+
+    <quadpointpair> B51' (160,227) </quadpointpair>
+    <quadpointpair> B52' (160,223) </quadpointpair>
+    <quadpointpair> B53' (162,223) </quadpointpair>
+    <quadpointpair> B54' (162,227) </quadpointpair>
+
+  </bike5>
+
+
+</bikes>
+
+</road>
+

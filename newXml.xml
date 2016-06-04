@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<road>
+
+  <quads>
+
+	<quad1 signal = "0" speedLimit = "20" oneway="1" >
+	
+		<quadpointpair> C (10,180) </quadpointpair>
+		<quadpointpair> A2 (10,160) </quadpointpair>
+		<quadpointpair> C (80,160) </quadpointpair>
+		<quadpointpair> W (80,180) </quadpointpair>
+
+	<roadBoundaries> (1,1,0,1) </roadBoundaries>
+	
+    </quad1>
+
+
+	<quad2 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (80,180) </quadpointpair>
+	<quadpointpair> A2 (80,160) </quadpointpair>
+	<quadpointpair> A3 (100,160) </quadpointpair>
+        <quadpointpair> D (100,180) </quadpointpair>
+	
+	<roadBoundaries> (0,0,1,1)  </roadBoundaries>
+
+    </quad2>
+ 	<quad3 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (80,160) </quadpointpair>
+	<quadpointpair> A2 (80,130) </quadpointpair>
+	<quadpointpair> A3 (100,130) </quadpointpair>
+        <quadpointpair> D (100,160) </quadpointpair>
+	
+	<roadBoundaries> (1,0,1,0)  </roadBoundaries>
+
+    </quad3>
+ 
+	<quad4 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (80,130) </quadpointpair>
+	<quadpointpair> A2 (80,110) </quadpointpair>
+	<quadpointpair> A3 (100,110) </quadpointpair>
+        <quadpointpair> D (100,130) </quadpointpair>
+	
+	<roadBoundaries> (0,0,0,0)  </roadBoundaries>
+
+    </quad4>
+ 	<quad5 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (60,130) </quadpointpair>
+	<quadpointpair> A2 (60,110) </quadpointpair>
+	<quadpointpair> A3 (80,110) </quadpointpair>
+        <quadpointpair> D (80,130) </quadpointpair>
+	
+	<roadBoundaries> (0,1,0,1)  </roadBoundaries>
+
+    </quad5>
+ 	<quad6 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (40,130) </quadpointpair>
+	<quadpointpair> A2 (40,110) </quadpointpair>
+	<quadpointpair> A3 (60,110) </quadpointpair>
+        <quadpointpair> D (60,130) </quadpointpair>
+	
+	<roadBoundaries> (1,0,0,1)  </roadBoundaries>
+
+    </quad6>
+	<quad7 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (40,110) </quadpointpair>
+	<quadpointpair> A2 (40,90) </quadpointpair>
+	<quadpointpair> A3 (60,90) </quadpointpair>
+        <quadpointpair> D (60,110) </quadpointpair>
+	
+	<roadBoundaries> (1,1,1,0)  </roadBoundaries>
+
+    </quad7>
+
+	<quad8 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (80,110) </quadpointpair>
+	<quadpointpair> A2 (80,90) </quadpointpair>
+	<quadpointpair> A3 (100,90) </quadpointpair>
+        <quadpointpair> D (100,110) </quadpointpair>
+	
+	<roadBoundaries> (1,1,1,0)  </roadBoundaries>
+
+    </quad8>
+	<quad9 signal = "0" speedLimit = "20" oneway="1" >
+
+	<quadpointpair> C (100,130) </quadpointpair>
+	<quadpointpair> A2 (100,110) </quadpointpair>
+	<quadpointpair> A3 (140,110) </quadpointpair>
+        <quadpointpair> D (140,130) </quadpointpair>
+	
+	<roadBoundaries> (0,1,1,1)  </roadBoundaries>
+
+    </quad9>
+
+
+
+
+</quads>
+<cars  dimension="3x5" bgcolor = " 1 0 1 " >
+
+  <car1>
+          <quadpointpair> C11' (20,223) </quadpointpair>
+          <quadpointpair> C12' (20,220) </quadpointpair>
+
+  </car1>
+
+
+  <car2>
+          <quadpointpair> C21' (15,60) </quadpointpair>
+          <quadpointpair> C22' (15,55) </quadpointpair>
+
+  </car2>
+
+
+  <car3>
+         <quadpointpair> C31' (78,212) </quadpointpair>
+          <quadpointpair> C32' (78,208) </quadpointpair>
+
+  </car3>
+
+  <car4>
+          <quadpointpair> C41' (90,63) </quadpointpair>
+          <quadpointpair> C42' (90,60) </quadpointpair>
+
+  </car4>
+
+</cars>
+
+<trucks dimension="6x11" bgcolor = " 0 0 1 " >
+
+  <truck1>
+
+    <quadpointpair> T11' (75,148) </quadpointpair>
+    <quadpointpair> T12' (75,142) </quadpointpair>
+
+
+  </truck1>
+
+
+
+  <truck2>
+
+    <quadpointpair> T21' (157,138) </quadpointpair>
+    <quadpointpair> T22' (157,132) </quadpointpair>
+
+  </truck2>
+
+</trucks>
+
+
+
+
+<bikes dimension ="3x3"   bgcolor=" 1 1 1">
+
+  <bike1>
+
+    <quadpointpair> B11' (149,137) </quadpointpair>
+    <quadpointpair> B12' (149,135) </quadpointpair>
+
+  </bike1>
+
+  <bike2>
+
+    <quadpointpair> B21' (83,160) </quadpointpair>
+    <quadpointpair> B22' (83,156) </quadpointpair>
+
+  </bike2>
+
+  <bike3>
+
+    <quadpointpair> B31' (56,148) </quadpointpair>
+    <quadpointpair> B32' (56,146) </quadpointpair>
+
+  </bike3>
+
+  <bike4>
+
+    <quadpointpair> B41' (15,128) </quadpointpair>
+    <quadpointpair> B42' (15,124) </quadpointpair>
+
+  </bike4>
+
+
+  <bike5>
+
+    <quadpointpair> B51' (160,227) </quadpointpair>
+    <quadpointpair> B52' (160,223) </quadpointpair>
+
+  </bike5>
+
+
+</bikes>
+
+</road>

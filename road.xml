@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<road>
+   <quads>
+      <quad>
+         <quadpointpair> A (100,10) </quadpointpair>
+         <quadpointpair> B (110,10) </quadpointpair>
+         <quadpointpair> C (110,0) </quadpointpair>
+         <quadpointpair> D (100,0) </quadpointpair>
+         <roadBoundaries> (0,0,1,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (110,10) </quadpointpair>
+         <quadpointpair> B (120,10) </quadpointpair>
+         <quadpointpair> C (120,0) </quadpointpair>
+         <quadpointpair> D (110,0) </quadpointpair>
+         <roadBoundaries> (0,1,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (110,20) </quadpointpair>
+         <quadpointpair> B (120,10) </quadpointpair>
+         <quadpointpair> C (110,10) </quadpointpair>
+         <quadpointpair> D (100,10) </quadpointpair>
+         <roadBoundaries> (0,0,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,40) </quadpointpair>
+         <quadpointpair> B (87,45) </quadpointpair>
+         <quadpointpair> C (110,20) </quadpointpair>
+         <quadpointpair> D (100,10) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,125) </quadpointpair>
+         <quadpointpair> B (83,125) </quadpointpair>
+         <quadpointpair> C (87,45) </quadpointpair>
+         <quadpointpair> D (70,40) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,140) </quadpointpair>
+         <quadpointpair> B (82,140) </quadpointpair>
+         <quadpointpair> C (83,125) </quadpointpair>
+         <quadpointpair> D (70,125) </quadpointpair>
+         <roadBoundaries> (0,1,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (40,140) </quadpointpair>
+         <quadpointpair> B (70,140) </quadpointpair>
+         <quadpointpair> C (70,125) </quadpointpair>
+         <quadpointpair> D (30,125) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (10,160) </quadpointpair>
+         <quadpointpair> B (25,160) </quadpointpair>
+         <quadpointpair> C (40,140) </quadpointpair>
+         <quadpointpair> D (30,125) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (7,180) </quadpointpair>
+         <quadpointpair> B (22,160) </quadpointpair>
+         <quadpointpair> C (25,160) </quadpointpair>
+         <quadpointpair> D (10,160) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (9,205) </quadpointpair>
+         <quadpointpair> B (25,205) </quadpointpair>
+         <quadpointpair> C (22,180) </quadpointpair>
+         <quadpointpair> D (7,150) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (9,220) </quadpointpair>
+         <quadpointpair> B (25,220) </quadpointpair>
+         <quadpointpair> C (25,205) </quadpointpair>
+         <quadpointpair> D (9,205) </quadpointpair>
+         <roadBoundaries> (0,0,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (10,240) </quadpointpair>
+         <quadpointpair> B (25,240) </quadpointpair>
+         <quadpointpair> C (25,220) </quadpointpair>
+         <quadpointpair> D (9,220) </quadpointpair>
+         <roadBoundaries> (1,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (25,220) </quadpointpair>
+         <quadpointpair> B (50,220) </quadpointpair>
+         <quadpointpair> C (50,205) </quadpointpair>
+         <quadpointpair> D (25,205) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (50,220) </quadpointpair>
+         <quadpointpair> B (70,225) </quadpointpair>
+         <quadpointpair> C (70,210) </quadpointpair>
+         <quadpointpair> D (50,205) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,245) </quadpointpair>
+         <quadpointpair> B (85,245) </quadpointpair>
+         <quadpointpair> C (85,225) </quadpointpair>
+         <quadpointpair> D (70,225) </quadpointpair>
+         <roadBoundaries> (1,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,225) </quadpointpair>
+         <quadpointpair> B (85,225) </quadpointpair>
+         <quadpointpair> C (95,210) </quadpointpair>
+         <quadpointpair> D (70,210) </quadpointpair>
+         <roadBoundaries> (0,0,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,210) </quadpointpair>
+         <quadpointpair> B (95,210) </quadpointpair>
+         <quadpointpair> C (80,200) </quadpointpair>
+         <quadpointpair> D (70,200) </quadpointpair>
+         <roadBoundaries> (0,0,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (70,200) </quadpointpair>
+         <quadpointpair> B (80,200) </quadpointpair>
+         <quadpointpair> C (82,140) </quadpointpair>
+         <quadpointpair> D (70,140) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (85,225) </quadpointpair>
+         <quadpointpair> B (110,225) </quadpointpair>
+         <quadpointpair> C (110,210) </quadpointpair>
+         <quadpointpair> D (95,210) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (110,225) </quadpointpair>
+         <quadpointpair> B (125,225) </quadpointpair>
+         <quadpointpair> C (125,210) </quadpointpair>
+         <quadpointpair> D (110,210) </quadpointpair>
+         <roadBoundaries> (1,0,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (125,225) </quadpointpair>
+         <quadpointpair> B (150,225) </quadpointpair>
+         <quadpointpair> C (145,210) </quadpointpair>
+         <quadpointpair> D (125,210) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (150,225) </quadpointpair>
+         <quadpointpair> B (160,220) </quadpointpair>
+         <quadpointpair> C (159,210) </quadpointpair>
+         <quadpointpair> D (145,210) </quadpointpair>
+         <roadBoundaries> (0,1,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (165,240) </quadpointpair>
+         <quadpointpair> B (175,235) </quadpointpair>
+         <quadpointpair> C (160,220) </quadpointpair>
+         <quadpointpair> D (150,225) </quadpointpair>
+         <roadBoundaries> (1,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (145,210) </quadpointpair>
+         <quadpointpair> B (159,210) </quadpointpair>
+         <quadpointpair> C (155,170) </quadpointpair>
+         <quadpointpair> D (140,170) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (140,170) </quadpointpair>
+         <quadpointpair> B (155,170) </quadpointpair>
+         <quadpointpair> C (152,150) </quadpointpair>
+         <quadpointpair> D (137,150) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (115,170) </quadpointpair>
+         <quadpointpair> B (130,170) </quadpointpair>
+         <quadpointpair> C (137,150) </quadpointpair>
+         <quadpointpair> D (122,150) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (115,195) </quadpointpair>
+         <quadpointpair> B (130,195) </quadpointpair>
+         <quadpointpair> C (130,170) </quadpointpair>
+         <quadpointpair> D (115,170) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (110,210) </quadpointpair>
+         <quadpointpair> B (125,210) </quadpointpair>
+         <quadpointpair> C (130,195) </quadpointpair>
+         <quadpointpair> D (115,15) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (80,200) </quadpointpair>
+         <quadpointpair> B (95,210) </quadpointpair>
+         <quadpointpair> C (105,190) </quadpointpair>
+         <quadpointpair> D (95,190) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (95,190) </quadpointpair>
+         <quadpointpair> B (105,190) </quadpointpair>
+         <quadpointpair> C (105,150) </quadpointpair>
+         <quadpointpair> D (95,140) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (105,150) </quadpointpair>
+         <quadpointpair> B (122,150) </quadpointpair>
+         <quadpointpair> C (125,140) </quadpointpair>
+         <quadpointpair> D (95,140) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (122,150) </quadpointpair>
+         <quadpointpair> B (137,150) </quadpointpair>
+         <quadpointpair> C (137,140) </quadpointpair>
+         <quadpointpair> D (125,140) </quadpointpair>
+         <roadBoundaries> (0,0,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (137,150) </quadpointpair>
+         <quadpointpair> B (152,150) </quadpointpair>
+         <quadpointpair> C (151,140) </quadpointpair>
+         <quadpointpair> D (137,140) </quadpointpair>
+         <roadBoundaries> (0,1,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (137,140) </quadpointpair>
+         <quadpointpair> B (151,140) </quadpointpair>
+         <quadpointpair> C (150,130) </quadpointpair>
+         <quadpointpair> D (137,130) </quadpointpair>
+         <roadBoundaries> (0,1,0,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (125,140) </quadpointpair>
+         <quadpointpair> B (137,140) </quadpointpair>
+         <quadpointpair> C (137,130) </quadpointpair>
+         <quadpointpair> D (130,130) </quadpointpair>
+         <roadBoundaries> (0,0,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,130) </quadpointpair>
+         <quadpointpair> B (150,130) </quadpointpair>
+         <quadpointpair> C (150,120) </quadpointpair>
+         <quadpointpair> D (130,120) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,120) </quadpointpair>
+         <quadpointpair> B (150,120) </quadpointpair>
+         <quadpointpair> C (150,105) </quadpointpair>
+         <quadpointpair> D (130,105) </quadpointpair>
+         <roadBoundaries> (0,0,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,105) </quadpointpair>
+         <quadpointpair> B (150,105) </quadpointpair>
+         <quadpointpair> C (150,70) </quadpointpair>
+         <quadpointpair> D (130,70) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,70) </quadpointpair>
+         <quadpointpair> B (150,70) </quadpointpair>
+         <quadpointpair> C (150,55) </quadpointpair>
+         <quadpointpair> D (130,55) </quadpointpair>
+         <roadBoundaries> (0,0,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,55) </quadpointpair>
+         <quadpointpair> B (150,55) </quadpointpair>
+         <quadpointpair> C (150,40) </quadpointpair>
+         <quadpointpair> D (130,45) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (130,45) </quadpointpair>
+         <quadpointpair> B (150,40) </quadpointpair>
+         <quadpointpair> C (120,10) </quadpointpair>
+         <quadpointpair> D (110,20) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (150,120) </quadpointpair>
+         <quadpointpair> B (170,120) </quadpointpair>
+         <quadpointpair> C (170,105) </quadpointpair>
+         <quadpointpair> D (150,105) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (170,120) </quadpointpair>
+         <quadpointpair> B (190,110) </quadpointpair>
+         <quadpointpair> C (175,103) </quadpointpair>
+         <quadpointpair> D (170,105) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (175,103) </quadpointpair>
+         <quadpointpair> B (190,110) </quadpointpair>
+         <quadpointpair> C (190,55) </quadpointpair>
+         <quadpointpair> D (175,70) </quadpointpair>
+         <roadBoundaries> (0,1,0,1) </roadBoundaries>
+      </quad>
+      <quad>
+         <quadpointpair> A (150,70) </quadpointpair>
+         <quadpointpair> B (175,70) </quadpointpair>
+         <quadpointpair> C (190,55) </quadpointpair>
+         <quadpointpair> D (150,55) </quadpointpair>
+         <roadBoundaries> (1,0,1,0) </roadBoundaries>
+      </quad>
+   </quads>
+</road>

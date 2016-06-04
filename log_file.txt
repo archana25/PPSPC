@@ -1,0 +1,3 @@
+Each quadrant has been verified for redundant coordinate.......			PASS
+Each quadrant has been verified for valid no of edges.......			PASS
+Each quadrant has been verified for valid no of road boundaries.......		PASS

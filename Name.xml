@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<road>
+	<quads>
+		<quad1>
+			<quadpointpair>1  (263.612427,208.693649)</quadpointpair>
+			<quadpointpair>1  (500.000000,264.498657)</quadpointpair>
+
+	<roadBoundaries> (1,1)  </roadBoundaries>
+		</quad1>
+		<quad2>
+			<quadpointpair>2  (193.865662,232.157837)</quadpointpair>
+			<quadpointpair>2  (99.885956,500.000000)</quadpointpair>
+
+	<roadBoundaries> (1,1)  </roadBoundaries>
+		</quad2>
+		<quad3>
+			<quadpointpair>3  (-500.000000,69.204544)</quadpointpair>
+			<quadpointpair>3  (193.865662,232.157837)</quadpointpair>
+
+	<roadBoundaries> (1,1)  </roadBoundaries>
+		</quad3>
+		<quad4>
+			<quadpointpair>4  (73.911613,-500.000000)</quadpointpair>
+			<quadpointpair>4  (263.612457,208.693649)</quadpointpair>
+
+	<roadBoundaries> (1,1)  </roadBoundaries>
+		</quad4>
+		<quad5>
+			<quadpointpair>5  (193.865662,232.157837)</quadpointpair>
+			<quadpointpair>5  (263.612427,208.693649)</quadpointpair>
+
+	<roadBoundaries> (1,1)  </roadBoundaries>
+		</quad5>
+
+</quads>
+</road>

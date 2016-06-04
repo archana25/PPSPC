@@ -1,0 +1,3 @@
+
+giving variant width in road
+repeatition of quad with same coordinate but different quad no
